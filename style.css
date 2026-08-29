@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #0F172A;
+    background-color: #F8FAFC;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #4338CA;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+}
+
+.project {
+    background-color: white;
+    border: 1px solid #E2E8F0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 25px;
+}
